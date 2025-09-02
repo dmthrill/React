@@ -1,7 +1,7 @@
-import Poem from "./1.7_RenderingLists/Ch4_App_forEach.jsx";
+import Ch2 from './2.5_QueueingASeries/Ch2_App.jsx';
 
 export default function App() {
   return (
-    <Poem />
+    <Ch2 />
   );
 }
